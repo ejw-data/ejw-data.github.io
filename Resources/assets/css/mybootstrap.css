@@ -1,0 +1,71 @@
+/*!
+ * mybootcamp.css 
+ */
+
+body {
+    background-color: #ececec;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: orange;
+    font-weight:700;
+}
+p {
+    line-height:2em;
+}
+.col-md-12, .col-md-8, .col-md-4 {
+    margin-top: 4em;
+    padding: 0 2em 0 2em;
+}
+.row {
+    margin-bottom:3em;
+}
+
+.title {
+    display: block;
+    color: orange;
+    font-weight:700;
+    font-size: 1.25em;
+    text-align:center;
+}
+.center {
+    text-align:center;
+}
+
+.white {
+    background-color:white;
+    padding: 2em;
+}
+.navbar-brand{
+    background-color: orange;
+    color:white!important;
+    font-size:2em;
+    font-weight:700;
+}
+.navbar-brand a {color:white;}
+
+.theme-showcase {
+    margin-top: 5em;
+}
+
+.float_l {
+    float: left;
+}
+
+@media (min-width: 768px){
+    .navbar-nav {
+        float: right;
+    }
+    .intext{
+        width:50%;
+        height:50%;
+    }
+}
+
+@media (max-width: 767px){
+    .intext {
+        width:100%;
+        height:100%;
+    }
+}
