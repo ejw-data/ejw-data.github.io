@@ -1,0 +1,21 @@
+<!-- ############################################################################################## -->    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121313672-1"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121313672-1');
+
+  ga('create', 'UA-121313672-1','auto');
+  ga('require', 'linkid', {
+    'cookieName': '_ejw',
+    'duration': 45,
+    'levels': 5
+  });
+  ga('send', 'pageview');
+</script>
+
+<!-- ############################################################################################## -->  
