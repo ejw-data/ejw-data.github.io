@@ -1,61 +1,20 @@
-# ejw-data.github.io
+# Hydejack Starter Kit
 
-Author:  Erin James Wills - ejw.data@gmail.com  
+A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-![Erin Wills Portfolio Banner](./images/ejw-data-github-io.png)  
-<cite>Photo by Erin Wills</cite>
+## Quick Start
+### Running locally
+1. Clone repository (git users), or [download] and unzip.
+2. Open terminal, `cd` into root directory (where `_config.yml` is located)
+3. Run `bundle install` [^1]
+4. Run `bundle exec jekyll serve`
+5. Open <http://localhost:4000/hydejack-starter-kit/>
 
-## Overview
-<hr>
+## What's next?
+* Open files and read the comments
+* Read the [docs](https://hydejack.com/docs/)
+* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-I am not a big fan of static websites.  I used Jekyll for this website since it removes some of my key irriations.  For example, templates can be used to add in modules and generate post pages.  The greatly reduces the amount of repetitive tasks.  Overall, I would say Jekyll is a nice templating system and I think I might like the use of `Liquid` templating language over similar systems like `Jinja`.  I'm not sure how I feel about the mix of markdown and HTML to generate the pages.  The original theme can be found at [hydejack.com](https://hydejack.com/).  
+[^1]: Requires Bundler. Install with `gem install bundler`.
 
-## Jekyll Hydejack Features:
-* Beautiful Modal-like Home Page 
-* Responsive Layout
-* Supports Multiple Markdown Features
-* Some Built-in Styling
-
-## Github Pages  
-
-https://ejw-data.github.io/
-   
-
-<br>
-
-## Technologies   
-*  Jekyll
-*  Markdown 
-*  HTML/CSS/JS
-
-<br>
-
-## Data Source  
-
-Not applicable
-
-<br>
-
-## Setup and Installation  
-
-1. Clone the repo to your local machine
-1. Open repo folder in an IDE like VSCode
-1. Using a virtual server like the VSCode extention LiveServer
-1. Run `index.html`  
-
-<br>
-
-## Examples
-
-![Github Home Page Cover](./images/homepage-cover.png)  
-
-<br>
-
-![Github Home Page](./images/homepage.png)  
-
-<br>
-
-![Articles](./images/articles.png)
-
-
-<br>
+[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
