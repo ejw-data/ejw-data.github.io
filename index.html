@@ -45,7 +45,7 @@ Powered by Hydejack v9.1.4 <https://hydejack.com/>
 <meta name="twitter:site" content="@ErinWills" />
 <meta name="twitter:creator" content="@ErinWills" />
 <script type="application/ld+json">
-{"@type":"WebSite","image":"/assets/img/blog/general_image.jpg","headline":"I am","dateModified":"2022-07-06T22:26:12-05:00","sameAs":["https://twitter.com/ErinWills","https://github.com/ejw-data"],"author":{"@type":"Person","name":"Erin Wills"},"url":"/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/profile/me-cover.jpg"},"name":"Erin Wills"},"name":"Erin Wills","description":"Introduction to Erin Wills and his professional interests.","@context":"https://schema.org"}</script>
+{"@type":"WebSite","image":"/assets/img/blog/general_image.jpg","headline":"I am","dateModified":"2022-07-07T10:01:58-05:00","sameAs":["https://twitter.com/ErinWills","https://github.com/ejw-data"],"author":{"@type":"Person","name":"Erin Wills"},"url":"/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/profile/me-cover.jpg"},"name":"Erin Wills"},"name":"Erin Wills","description":"Introduction to Erin Wills and his professional interests.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -109,7 +109,7 @@ Powered by Hydejack v9.1.4 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2022-07-06T22:26:12-05:00',
+    INDEX_KEY: 'index--2022-07-07T10:02:42-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -266,11 +266,11 @@ Left here for reference, feel free to delete.
       <li>
         <a
           id="_drawer--opened"
-          href="/about/"
+          href="/"
           class="sidebar-nav-item "
           
         >
-          About
+          Home
         </a>
       </li>
     
@@ -555,32 +555,36 @@ Left here for reference, feel free to delete.
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span> 
-    <form>
+    <form method="POST" autocomplete="off" name="google-sheet">
       <label for="email">Email:</label>
       <br />
-      <input type="email" id="email" name="email" class="short-input" tabindex="0" aria-label="Your email" />
+      <input type="email" id="email" name="email" class="short-input" tabindex="0" aria-label="Your email" placeholder="Required" required="" />
       <br />  
       <label for="fullname">First &amp; Last Name:</label>
       <br />  
-      <input type="text" id="fullname" name="fullname" class="short-input" />  
+      <input type="text" id="fullname" name="fullname" class="short-input" placeholder="Required" required="" />  
       <br />
       <label for="subject">Subject:</label>
       <br />  
-      <input type="text" id="subject" name="subject" class="short-input" />  
+      <input type="text" id="subject" name="subject" class="short-input" placeholder="Required" required="" />  
       <br />
       <label for="message">Message:</label>
       <br />  
-      <input type="text" id="message" name="message" class="long-input" />  
+      <textarea rows="5" cols="60" name="body" id="message" class="long-input">Required</textarea>
       <br /> 
       <br />
-      <input type="submit" value="Submit" />
+      <input type="submit" value="Submit" class="submit" />
     </form>
   </div>
 
 </div>
 
-<!-- Copied directly from W3Schools -->
 <script>
+//*****************************************************************//
+// Script used to Generate Modal Functionality 
+// Copied directly from W3Schools
+//*****************************************************************//
+
 // Get the modal
 var modal = document.getElementById("myModal");
 
@@ -608,6 +612,54 @@ window.onclick = function(event) {
 
 }
 
+</script>
+
+<script>
+//*****************************************************************//
+// Script used to 
+//    1) submit form results
+//    2) popup alert screen of status
+//    3) prevent redirect 
+//    4) clear form input boxes for next use
+// Reference:  https://github.com/levinunnink/html-form-to-google-sheet
+// Reference:  https://trickuweb.com/submit-custom-html-form-data-to-google-sheets.php
+// Note:  I used several other refences to prevent 
+//*****************************************************************//
+
+  // form data destination
+  const scriptURL = "https://script.google.com/macros/s/AKfycbw_wTxrkyqb0mokq6uKUqTPkNEwNGjydcw40FDpuL6epj5ThEeDFCVpUNyJrJOCCYEL/exec";
+  // select form
+  const form = document.forms['google-sheet'];
+  // select modal
+  const modalclose = document.getElementById('myModal');
+  // select form inputs
+  const emailInput = document.getElementById('email');  
+  const fullnameInput = document.getElementById('fullname');  
+  const subjectInput = document.getElementById('subject');  
+  const messageInput = document.getElementById('message');  
+  
+
+  // use ajax to submit without redirecting
+  form.addEventListener('submit', e => {
+
+    // prevents redirect
+    e.preventDefault()
+
+    // ajax post with alert message
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+      .catch(error => console.error('Error!', error.message));
+    
+    // close modal
+    modalclose.style.display = "none";
+
+    // clear form inputs
+    emailInput.value='';
+    fullnameInput.value='';
+    subjectInput.value='';
+    messageInput.value='';
+
+  })
 </script>
 
 
