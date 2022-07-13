@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/about/</loc>
-<lastmod>2022-07-13T11:43:25-05:00</lastmod>
+<lastmod>2022-07-13T11:46:56-05:00</lastmod>
 </url>
 <url>
 <loc>/articles/</loc>
@@ -38,10 +38,10 @@
 </url>
 <url>
 <loc>/projects/</loc>
-<lastmod>2022-07-13T10:43:01-05:00</lastmod>
+<lastmod>2022-07-13T11:49:36-05:00</lastmod>
 </url>
 <url>
 <loc>/resume/</loc>
-<lastmod>2022-06-13T01:55:31-05:00</lastmod>
+<lastmod>2022-07-13T13:00:00-05:00</lastmod>
 </url>
 </urlset>
