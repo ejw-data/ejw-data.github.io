@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Load the JS file -->
+    <script src="https://cdn.jsdelivr.net/npm/@gitgraph/js"></script>
+</head>
+
+<body>
+    <!-- DOM element in which we'll mount our graph -->
+    <div id="graph-container"></div>
+
+    <!-- Use the `GitgraphJS` global variable to create your graph -->
+    <script>
+        // Get the graph container HTML element.
+        const graphContainer = document.getElementById("graph-container");
+
+        // Instantiate the graph.
+        const gitgraph = GitgraphJS.createGitgraph(graphContainer);
+
+        // Simulate git commands with Gitgraph API.
+        const master = gitgraph.branch("master");
+        master.commit("Initial commit");
+
+        const develop = master.branch("develop");
+        develop.commit("Add TypeScript");
+
+        const aFeature = develop.branch("a-feature");
+        aFeature
+            .commit("Make it work")
+            .commit("Make it right")
+            .commit("Make it fast");
+
+        develop.merge(aFeature);
+        develop.commit("Prepare v1");
+
+        master.merge(develop).tag("v1.0.0");
+    </script>
+</body>
+
+</html>
