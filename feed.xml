@@ -1,5 +1,317 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-08T16:14:58-06:00</updated><id>/feed.xml</id><title type="html">ERIN WILLS</title><subtitle>By possessing both technical and managerial skills,  Erin is highly adaptive particularly with learning and teaching new technology.
-</subtitle><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><entry><title type="html">The Art of Communicating…</title><link href="/articles/interests/2023-03-07-generation_communication/" rel="alternate" type="text/html" title="The Art of Communicating…" /><published>2023-03-07T00:00:00-06:00</published><updated>2023-03-08T15:55:47-06:00</updated><id>/articles/interests/generation_communication</id><content type="html" xml:base="/articles/interests/2023-03-07-generation_communication/">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-08-09T09:06:55-05:00</updated><id>/feed.xml</id><title type="html">ERIN WILLS</title><subtitle>By possessing both technical and managerial skills,  Erin is highly adaptive particularly with learning and teaching new technology.
+</subtitle><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><entry><title type="html">Linear Programming …</title><link href="/articles/tech/2023-05-12-linear-programming/" rel="alternate" type="text/html" title="Linear Programming …" /><published>2023-05-12T00:00:00-05:00</published><updated>2023-08-09T09:05:55-05:00</updated><id>/articles/tech/linear-programming</id><content type="html" xml:base="/articles/tech/2023-05-12-linear-programming/">&lt;hr /&gt;
+
+&lt;p&gt;I am fairly accustomed to using different methods to solve problems.  In most cases I need to break down the problem to find a creative and custom solution because no documentation of something similar can be found.  I almost always start by having a simple solution mapped out in excel and then to complete the calculations I create the calculations in code.  This is often necessary since the complexity of the calculations become unwieldly in excel.&lt;/p&gt;
+
+&lt;p&gt;Until recently, I did not realize that many of the solutions I created were just linear programs.  Some examples were just graphical solutions but as the problems became more complicated, I was creating greedy solutions or recursive solutions.  Some of my solutions were even using the Excel Solver feature which is a form of linear programming.&lt;/p&gt;
+
+&lt;p&gt;I have now started using the python package called PuLP.  It is a great linear programming package that simplifies the setup and reduces the time needed to test the code.  I was able to design, run, and validate my solutions in one afternoon.  My inspiration to learn more about linear programming occurred when reading about urban planning and finding that the transportation problems were often solved by optimizing schedules.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><category term="overview" /><summary type="html">I am fairly accustomed to using different methods to solve problems. In most cases I need to break down the problem to find a creative and custom solution because no documentation of something similar can be found. I almost always start by having a simple solution mapped out in excel and then to complete the calculations I create the calculations in code. This is often necessary since the complexity of the calculations become unwieldly in excel.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/code.jpg" /><media:content medium="image" url="/assets/img/blog/code.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Favorite Movies…</title><link href="/articles/person/personal/2023-05-10-movies/" rel="alternate" type="text/html" title="Favorite Movies…" /><published>2023-05-10T00:00:00-05:00</published><updated>2023-06-21T14:33:07-05:00</updated><id>/articles/person/personal/movies</id><content type="html" xml:base="/articles/person/personal/2023-05-10-movies/">&lt;hr /&gt;
+
+&lt;p&gt;Recently, I was talking to some friends that were born in east Asia and lived in the United States for a limited time.  At the time, I had been watching several Youtube videos about first time reactions to movies which led me to ask them how many Hollywood films they had seen that were made before 2000.  I was not really surprised but they could name very few and some of the most iconic movies were completely unknown to them.  This led to hours of talking about the best movies we had all seen and below are some movies that I thought were some of the best.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Action&lt;/code&gt;:  Christopher Nolan’s &lt;em&gt;Batman&lt;/em&gt; series  is very good but Matt Reeve’s &lt;em&gt;Batman&lt;/em&gt; series could be a good competitor if the series continues to develop the Batman character as a detective but then maybe this movie might be the best &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Mystery&lt;/code&gt; category.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Animation&lt;/code&gt;:  I like most animated movies especially as something to play in the background while I work on something but I will say that there are two series that stand above the rest - &lt;em&gt;Kung Fu Panda&lt;/em&gt; and &lt;em&gt;How to Train a Dragon&lt;/em&gt;.  Both of these series produce very good stories and take some risks.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Rom-Com&lt;/code&gt;:   Most popular choice was &lt;em&gt;Sleepless in Seattle&lt;/em&gt; but my favorite was released a year later in 1994 and was &lt;em&gt;While You Were Sleeping&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Science Fiction&lt;/code&gt;:  I’m going to be lame and for those who have never seen it then &lt;em&gt;Star Wars: A New Hope&lt;/em&gt; and &lt;em&gt;Star Wars: The Empire Strikes Back&lt;/em&gt; are both really good and new versions like &lt;em&gt;Star Wars: Revenge of the Sith&lt;/em&gt; and &lt;em&gt;Star Wars: Rogue One&lt;/em&gt; are both really well done.  Not sure about the rest of them - too many questionable parts.  There are also modern sci-fi movies that are good like &lt;em&gt;Ex Machina&lt;/em&gt; but I tend to put those into the niche audiences and not for the majority of viewers.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Suspense&lt;/code&gt;:  Okay, one of the best shots in any movie is the day time beach scene where the young boy gets attacked in &lt;em&gt;Jaws&lt;/em&gt;.  The historical references to the USS Indianapolis and the character development make this movie very good even though it has one of the simplest plots.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Sports&lt;/code&gt;:  I’m not going to recommend my favorite which is &lt;em&gt;Hoosiers&lt;/em&gt; because too many people will not share the understanding of what basketball was like in Indiana from 1950 through 1999. The movie series that I am picking as the best sports movie is the &lt;em&gt;Rocky&lt;/em&gt; series but only the first five movies.  Here is the twist.  I vote this as the best because I think it is the story of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Adrian&lt;/code&gt; and not Rocky. The best parts of all those movies is the character arc of Adrian.  Rocky’s character is not too interesting but he is likeable and most of the other characters have very little impact but Adrian connects the personal life story of Rocky with the action scenes.  Rocky as a boxing movie is fine but it is a much better drama than anything else.  In a similar way, &lt;em&gt;Rudy&lt;/em&gt; has the same formula - it’s the character that you want to see succeed whether they win or lose.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Thriller&lt;/code&gt;:  Many popular choices but I think the &lt;em&gt;Sixth Sense&lt;/em&gt; wins because of the great plot twist.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Western&lt;/code&gt;:  I only have one western that I really like and that is &lt;em&gt;Tombstone&lt;/em&gt;.  I like other movies like &lt;em&gt;The Man Who Shot Liberty Valence&lt;/em&gt; and the many John Wayne and Jimmy Stewart movies but most of these movies did not have as memorable characters as &lt;em&gt;Tombstone&lt;/em&gt;.  Some modern westerns are just ridiculous or incredibly slow, i.e. &lt;em&gt;Dances with Wolves&lt;/em&gt;, &lt;em&gt;Cowboys &amp;amp; Aliens&lt;/em&gt;, &lt;em&gt;Wild Wild West&lt;/em&gt;, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;I will update this more in the future because my conversation covered many movies but these were the first few movies discussed.  I have not even started talking about the effect of Tom Hanks, Tom Cruise, and Robin Williams had on movies.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="person" /><category term="Personal" /><category term="movies" /><summary type="html">Recently, I was talking to some friends that were born in east Asia and lived in the United States for a limited time. At the time, I had been watching several Youtube videos about first time reactions to movies which led me to ask them how many Hollywood films they had seen that were made before 2000. I was not really surprised but they could name very few and some of the most iconic movies were completely unknown to them. This led to hours of talking about the best movies we had all seen and below are some movies that I thought were some of the best.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/movies.jpg" /><media:content medium="image" url="/assets/img/blog/movies.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Conda Environments…</title><link href="/articles/tech/2023-04-07-conda-environments/" rel="alternate" type="text/html" title="Conda Environments…" /><published>2023-04-07T00:00:00-05:00</published><updated>2023-08-09T09:05:39-05:00</updated><id>/articles/tech/conda-environments</id><content type="html" xml:base="/articles/tech/2023-04-07-conda-environments/">&lt;hr /&gt;
+
+&lt;p&gt;Installing python packages can be frustrating when using libraries that are not as widely used.  It seems the development of those libraries is often more of a hobby and sometimes it expands into something more useful and the installation of those packages is a bit unwieldly.&lt;/p&gt;
+
+&lt;p&gt;Although I use several different python package managers, this article provides several tips of how to use conda.  In my experience, it can take several hours to get the right combination to make a library work and most of this time is just letting conda determine what to install.  In some cases I have only been able to get packages to install if I have the order of the installations correct.  In these cases, I find myself incredibly frustrated.&lt;/p&gt;
+
+&lt;p&gt;For example, I enjoy working with geospacial packages and recently was using hvplot.  It has many dependencies but in many cases these dependencies are not explicitly written in the documentation.  Even by creating a clean conda environment, I was able to install the packages without problems but immediately had missing dependencies and version conflicts when running code that I knew should work.  Mostly by luck, I knew that geopandas uses most of the same packages and their documentation about how to create a virtual environment is better.  I also had gotten that library to work before after a few tweeks but the error messages were very similar to those of hvplots.  So after creating a functioning geopandas environment, I was able to install hvplots and the associated downgrades to packges all worked so the environment functioned.  This process without doing any troubleshooting took about 45 minutes.&lt;/p&gt;
+
+&lt;p&gt;I don’t know if there is a way of getting around this environment testing phase but here are some nice practices that may help along the way:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Always create a new environment when starting.  This will make it easier to troubleshooting and duplicate later.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Create new environment named as `envname`
+conda create --name envname
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In the new conda environment, set the channels that you would like to use.  This can decrease some of the conflicts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Set channel
+conda config --env --add channels conda-forge
+conda config --env --set channel_priority strict  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Once you have the environment functioning with your code, save the contents of your environment to a .yml file.  This will make it so you can duplicate the environment very quickly.  Meaning, the 45 minutes it took me to have conda figure out the versions initially are already specified in the file so it just needs to do the installation without any extra checks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Create file containing environment specifications
+conda env export &amp;gt; envname.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using the .yml file, recreate the environment so others can directly install it.  The .yml file needs to be same directory as the terminal that runs this command.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Create environment from .yml
+conda env create -f envname.yml
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you forget your environment names then these commands might help.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;conda env list
+conda info --envs
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Also there will be times when you completely destroy an environment and deleting it will be necessary.  Sometimes it is also necessary to go to the directory location and manually delete the environment’s folder.  Often the environments are held in a folder in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;root&lt;/code&gt; directory within &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Anaconda3/envs&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Remove environment and its dependencies
+conda remove --name envname --all
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;More information about conda environments can be found in the &lt;a href=&quot;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><category term="overview" /><summary type="html">Installing python packages can be frustrating when using libraries that are not as widely used. It seems the development of those libraries is often more of a hobby and sometimes it expands into something more useful and the installation of those packages is a bit unwieldly.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/code.jpg" /><media:content medium="image" url="/assets/img/blog/code.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Data Sources…</title><link href="/articles/tech/2023-03-17-data-sources/" rel="alternate" type="text/html" title="Data Sources…" /><published>2023-03-17T00:00:00-05:00</published><updated>2023-08-09T09:01:41-05:00</updated><id>/articles/tech/data-sources</id><content type="html" xml:base="/articles/tech/2023-03-17-data-sources/">&lt;hr /&gt;
+
+&lt;p&gt;When I first started working with publicly accessible datasets, I would typically save them to an external hard drive.  This lasted about six months before I realized that I had over 200GB of data.  It may sound fine but my documentation of where the datasets orinated was not very good and often information about the encoding of the individual features was unclear.  Without this information, I would have been just as good off by creating synthetic data of my own.&lt;/p&gt;
+
+&lt;p&gt;I also realized that the usefulness of the data or the validity of the data was often suspect.  So in this article, I attempt to describe factors that influence if a data set is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;good&lt;/code&gt; or not.  At the bottom of this article is my is my second attempt at aggregating my resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thinking-like-a-data-scientist&quot;&gt;Thinking Like a Data Scientist&lt;/h3&gt;
+
+&lt;p&gt;Below is a collection of data sources that might be helpful as you work on projects. Please note that you’re free to use datasets from other sources as well.  I would advise that you start looking at datasets to become familiar with what is available and the possible limitations.  Consider these questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What type of questions could I ask?&lt;/li&gt;
+  &lt;li&gt;Can the data be broken into data subsets so I can discover a hidden story?&lt;/li&gt;
+  &lt;li&gt;What type of graphs would tell the story well?&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Most importantly, is the data quality good enough?&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-quality&quot;&gt;Data Quality&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Data Breadth or Variety&lt;/code&gt; - different types of measurements - categorical, numerical, geographic, time (columns)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Data Quanity or Volume&lt;/code&gt; - the amount of data including repeated measurements (rows)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Data Relevancy or Velocity&lt;/code&gt; - the frequency or rate that the data changes or becomes outdated/irrelevant.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Missing and Outlying and Faulty Data or Veracity&lt;/code&gt; - the values that seem to unavailable, unreasonable or impossible&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Story-Telling and Truth-Telling or Value&lt;/code&gt; - What type of story could come out of the investigation?  What uses and applications could this have? What research questions could I pose and answer?    What relationships are present?  What predictions could be made?  What is the significance?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Data Aggregations&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/public-apis/public-apis&quot;&gt;Public API’s&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/awesomedata/awesome-public-datasets&quot;&gt;Public Datasets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://datahub.io/&quot;&gt;DataHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://datasetsearch.research.google.com/&quot;&gt;Google Dataset Search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openml.org/&quot;&gt;OpenML&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.who.int/data/gho&quot;&gt;WHO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.fivethirtyeight.com/&quot;&gt;FiveThirtyEight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://registry.opendata.aws/&quot;&gt;Amazon Open Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gapminder.org/&quot;&gt;Gapminder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.world/&quot;&gt;Data World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.gov/&quot;&gt;Data.gov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bfi.org.uk/industry-data-insights&quot;&gt;Industry Data (UK)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://search.earthdata.nasa.gov/search&quot;&gt;Earth Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.ics.uci.edu/ml/index.php&quot;&gt;UCI Machine Learning Repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opendata.cern.ch/&quot;&gt;CERN OpenData&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/&quot;&gt;Kaggle Examples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Specific DataSets&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rstudio-pubs-static.s3.amazonaws.com/198801_49ebd6cd54f64d5cb60377820f4d6b89.html&quot;&gt;Billboard Top 100 Weekly 1959+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/vikrishnan/boston-house-prices&quot;&gt;Boston Housing Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/shivamb/netflix-shows/tasks&quot;&gt;Netflix Shows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/zalando-research/fashionmnist&quot;&gt;Fashion Images (Machine Learning)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify&quot;&gt;Spotify Song Charactristics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year&quot;&gt;Spotify Top Songs Decade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/datasets/unsdsn/world-happiness&quot;&gt;World Happiness Report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;federal-data-portals&quot;&gt;Federal Data Portals&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If the federal data is collected by the states and combined at a federal level then in many cases the data will not be collected in the same way.  Each state often develops their own definitions and procedures which can make comparing state data confusing.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.data.gov/&quot;&gt;United States&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;https://data.cdc.gov/&quot;&gt;CDC&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;https://www.noaa.gov/&quot;&gt;NOAA&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;https://earthdata.nasa.gov/&quot;&gt;NASA&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;state-data-portals&quot;&gt;State Data Portals&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.web.health.state.mn.us/web/mndata/&quot;&gt;Minnesota Health Data&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;city-data-portals&quot;&gt;City Data Portals&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;City Data Portals can be interesting but they can also be confusing because you need to investigate what each variable means, how it was collected, and was it modified from its original version.  For example, rideshare data from taxi companies and app services is collected by many cities and data provided but often the location data and price data is modified to protect privacy.  This is also a very large dataset and has very little preprocessing to correct errors.  You may find a rideshare trip that lasts 20 hours and goes half way across the country.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://data.cityofchicago.org/&quot;&gt;Chicago&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://data.boston.gov/&quot;&gt;Boston&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://opendata.cityofnewyork.us/&quot;&gt;New York&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://data.lacity.org/&quot;&gt;Los Angeles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://rlist.io/l/major-smart-cities-with-open-data-portals&quot;&gt;For an Extensive List&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;university-research&quot;&gt;University Research&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This can be interesting data but often is a very small, specific sample which is not representative of the larger, broader populaton as a whole.  This is often due to time, cost, and difficulty of obtaining data.  This is why graduate students may take several years to collect all the data that they need for their PhD Thesis/Dissertation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;common-api-sources&quot;&gt;Common API Sources&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;API’s can be great and they can be unpredictable.  One benefit is that you can typically get very recent information or even information that is refreshing almost instantenous.  The down side is that the owner may provide very limited access for free or the data could be very messy.  Only a couple of these have I seen used in a project.  Here are some options:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;OpenWeatherMap &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Yahoo Finance&lt;/li&gt;
+    &lt;li&gt;OMDB &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;IMDB&lt;/li&gt;
+    &lt;li&gt;Quandl &lt;em&gt;(later in the class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Spotify&lt;/li&gt;
+    &lt;li&gt;NY Times &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Yelp&lt;/li&gt;
+    &lt;li&gt;Mapquest&lt;/li&gt;
+    &lt;li&gt;TVMaze &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;WorldBank &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Google API &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;Census &lt;em&gt;(class activity)&lt;/em&gt;&lt;/li&gt;
+    &lt;li&gt;NASA API&lt;/li&gt;
+    &lt;li&gt;Numbers&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;machine-learning--computer-vision&quot;&gt;Machine Learning:  Computer Vision&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Examples practical only for the final project&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia&quot;&gt;Chest X-Ray Pneumonia Images (Machine Learning)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/landlord/handwriting-recognition&quot;&gt;Handwriting Samples (Machine Learning)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/fournierp/captcha-version-2-images&quot;&gt;Captcha Images (Machine Learning)&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="overview" /><summary type="html">When I first started working with publicly accessible datasets, I would typically save them to an external hard drive. This lasted about six months before I realized that I had over 200GB of data. It may sound fine but my documentation of where the datasets orinated was not very good and often information about the encoding of the individual features was unclear. Without this information, I would have been just as good off by creating synthetic data of my own.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/library.jpg" /><media:content medium="image" url="/assets/img/blog/library.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">VSCode Tips…</title><link href="/articles/tech/2023-03-17-vscode-setup/" rel="alternate" type="text/html" title="VSCode Tips…" /><published>2023-03-17T00:00:00-05:00</published><updated>2023-08-09T09:05:22-05:00</updated><id>/articles/tech/vscode-setup</id><content type="html" xml:base="/articles/tech/2023-03-17-vscode-setup/">&lt;hr /&gt;
+
+&lt;p&gt;So there are times when you just need a place to store some notes and I keep losing these notes.  I am done searching for them; making copies to send to others; and adding extra descriptions.  This page has all the key information that a person needs to customize bas VSCode features.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL&lt;/code&gt; + &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;,&lt;/code&gt; then search for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bracket pair&lt;/code&gt; - turn on block highlighting&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor › Bracket Pair Colorization: Enabled: (checked)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor › Guides: Bracket Pairs: active&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor › Guides: Bracket Pairs Horizontal: active&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Editor › Guides: Highlight Active Bracket Pair: (checked)&lt;/code&gt;
+&lt;img src=&quot;/assets/img/blog/vs_code_bracket_guides.png&quot; alt=&quot;Bracket Guides&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL&lt;/code&gt; + &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;,&lt;/code&gt; then search for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python directory&lt;/code&gt; - execute from file’s directory
+&lt;img src=&quot;/assets/img/blog/vs_code_python_code_directory.png&quot; alt=&quot;Python Code Execution&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL&lt;/code&gt; + &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;,&lt;/code&gt; then search for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;terminal external&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Terminal › External: Windows Exec:  C:\Program Files\Git\bin\bash.exe&lt;/code&gt; -  sets git bash as default terminal&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Terminal: Explorer Kind: external&lt;/code&gt; - by right clicking of file in vscode explorer
+&lt;img src=&quot;/assets/img/blog/vs_code_external_terminal.png&quot; alt=&quot;External Terminal&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL&lt;/code&gt; + &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;,&lt;/code&gt; then search for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;terminal integrated default profile windows&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Terminal › Integrated › Default Profile: Windows: Git Bash&lt;/code&gt; - sets bottom of screen terminal to be Git Bash
+&lt;img src=&quot;/assets/img/blog/vs_code_internal_terminal.png&quot; alt=&quot;Internal Terminal&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CTRL&lt;/code&gt; + &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;,&lt;/code&gt; then search for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;python environment&lt;/code&gt; - sets terminal environment to match active interpreter&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Python › Terminal: Activate Env In Current Terminal: (checked)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Python › Terminal: Activate Environment: (checked)&lt;/code&gt;
+&lt;img src=&quot;/assets/img/blog/vs_code_python_environment.png&quot; alt=&quot;Run Env in Terminal&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are several things that people like and one of my favorite themes is a default theme called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Monokai&lt;/code&gt;.  This theme has a dull dark grey background color and bright, high contrast text.  For some reason, I like this theme color selections for code and markdown files.&lt;/p&gt;
+
+&lt;p&gt;An alternate theme that many people compliment is called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Github Dark Default&lt;/code&gt; and is an extension that can be added to VSCode.  This theme uses a very dark black background and high contrast fonts but&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><category term="overview" /><summary type="html">So there are times when you just need a place to store some notes and I keep losing these notes. I am done searching for them; making copies to send to others; and adding extra descriptions. This page has all the key information that a person needs to customize bas VSCode features.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/code.jpg" /><media:content medium="image" url="/assets/img/blog/code.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pearl …</title><link href="/articles/tech/2023-03-08-perl/" rel="alternate" type="text/html" title="Pearl …" /><published>2023-03-08T00:00:00-06:00</published><updated>2023-08-09T09:01:29-05:00</updated><id>/articles/tech/perl</id><content type="html" xml:base="/articles/tech/2023-03-08-perl/">&lt;hr /&gt;
+
+&lt;p&gt;So I was recently sent about 60 GB of data on a harddrive.  The contents were contained in a single file of comma separated values and I was warned that that the data would probably be a bit messy but no one had looked at the data yet.  If I had some time, I was requested to browse over the proposed project and give feedback about what would be needed to accomplish the deliverables and what changes to the proposal might be needed if we were to accept this project.&lt;/p&gt;
+
+&lt;p&gt;In many cases this is a quick task since we will have smaller datasets or the content will already be on a cloud system that we can gain access but in this case the data was just on a harddrive.  This was also a project where we did not want to commit many resources at this time and I was travelling so I wanted to have a method I could do while on the plane.&lt;/p&gt;
+
+&lt;p&gt;I attempted to read the contents with Pandas and that did not work due to the file size.  This was pretty much expected.  I then turned to Vaex and some tasks worked fine but more complicated tasks would produce errors, also due to the large file size.  I thought about turning to Polars but was a bit tired of trying python methods at this point.  Polars will be a learning experience project in the near future.  Instead, I turned to Perl and GitBash.  I had used this in the past and was impressed with the speed and simplicity.&lt;/p&gt;
+
+&lt;p&gt;I was not disappointed.  I determined how many rows of data I had and took a couple samples of 10M rows and used a simple python script to get a nice overview of what the data was like from the smaller files.  The impressive part was that the sample was generated in less than 30 seconds and was only a single line of commands.  Compared to using python and the csv package, this was much faster.  I had seen many suggestions on stack overflow to use the csv_reader but when your file is over 100M rows then this is a very slow option.&lt;/p&gt;
+
+&lt;p&gt;Here are just two of the commands that I thought were very useful:&lt;/p&gt;
+
+&lt;p&gt;To view the first few lines of the file:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;head -3 filename
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To get a random sample of 5% of the data:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;perl -ne 'print if (rand() &amp;lt; .05)' large_filename &amp;gt; sampled_data_filename
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;My next task will be to use Polars and see how I like it and to read more about Perl’s capabilities to manipulate data.  I found a free open source book entitled &lt;a href=&quot;https://datamungingwithperl.com/&quot;&gt;Data Munging with Pearl&lt;/a&gt; which will be my starting point.  The book is over 20 years old but the focus of the book’s content is in line with my goals.&lt;/p&gt;
+
+&lt;p&gt;With all of that being said.  I really appreciate the speed and simplicity of this tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Side note&lt;/code&gt;:  Although this is not a perl command, I often use this terminal command also to give me hints about the data type of my document.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;file --exclude encoding filename_inserted_here.csv
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><summary type="html">So I was recently sent about 60 GB of data on a harddrive. The contents were contained in a single file of comma separated values and I was warned that that the data would probably be a bit messy but no one had looked at the data yet. If I had some time, I was requested to browse over the proposed project and give feedback about what would be needed to accomplish the deliverables and what changes to the proposal might be needed if we were to accept this project.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/pearl.jpg" /><media:content medium="image" url="/assets/img/blog/pearl.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Git Visualization Tools…</title><link href="/articles/tech/2023-03-08-git-visualization/" rel="alternate" type="text/html" title="Git Visualization Tools…" /><published>2023-03-08T00:00:00-06:00</published><updated>2023-08-09T09:01:08-05:00</updated><id>/articles/tech/git-visualization</id><content type="html" xml:base="/articles/tech/2023-03-08-git-visualization/">&lt;hr /&gt;
+
+&lt;p&gt;I am a a big fan of the use of Mac Terminal or Windows GitBash when working with git.  You will just understand what is happening better when using a command line system.  I will conceed that the terminal is not pretty looking like some of the git IDE programs but in many cases you can work around those limits.&lt;/p&gt;
+
+&lt;p&gt;For example, you can actually visualize the branching structure of a repo through terminal.  Here are some &lt;a href=&quot;https://think-like-a-git.net/sections/graphs-and-git/visualizing-your-git-repository.html&quot;&gt;instructions&lt;/a&gt; and here is a good visual of what it could look like:&lt;br /&gt;
+&lt;img src=&quot;/assets/img/blog/git_log_graph.png&quot; alt=&quot;Gitlog Graph&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For many people this will just not be appeasing.  There are some options:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitHub Repo Insights &amp;gt; Network feature:  GitHub repos already have a visual of the branching.  It’s a nice tool that quickly lets you see the general structure and who made the changes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitHub Projects:  I will need to come back to this feature because I am still a bit uncertain how it works.  I have been told that besides having a kanban board, you can also track the progress of branches.  I’m not sure about the visual aspect of it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitKracken:  This was the first tool I used when learning git.  I was not proficient with terminal at the time and this was a very fancy looking interface.  Overall, it produces very nice visuals.  Other alternatives to this are &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SourceTree&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GitX&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;VSCode Extension:  VS Code has several git related add-ons that can be used to visualize in document git history and git graphs.  Some of these are nice except I wish there was a quick toggle button so I could turn the tool on or off.  These tools have a habit of cluttering the screen while coding.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><summary type="html">I am a a big fan of the use of Mac Terminal or Windows GitBash when working with git. You will just understand what is happening better when using a command line system. I will conceed that the terminal is not pretty looking like some of the git IDE programs but in many cases you can work around those limits.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/moon_phases.jpg" /><media:content medium="image" url="/assets/img/blog/moon_phases.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Art of Communicating…</title><link href="/articles/interests/2023-03-07-generation_communication/" rel="alternate" type="text/html" title="The Art of Communicating…" /><published>2023-03-07T00:00:00-06:00</published><updated>2023-03-08T15:55:47-06:00</updated><id>/articles/interests/generation_communication</id><content type="html" xml:base="/articles/interests/2023-03-07-generation_communication/">&lt;hr /&gt;
 
 &lt;p&gt;So it was about two years ago when I started getting many arbitrary questions from people about my personal interests.  Most of these questions did not really fit into the conversation and seemed to be thrown in on a whim.  It made me very curious about what the person was thinking right before they asked.&lt;/p&gt;
 
@@ -21,7 +333,55 @@
 
 &lt;p&gt;Maybe these reactions are just due to the people being young.  Many people in their 20s and 30s have always had technology like a cell phone and in recent years have been more isolated due to covid.  I’m at the older end of that age spectrum and was a teenager or young adult during the beginning of the tech boom.  I will definitely attest that my generation used technology in destructive ways.  Just look at television, music, and apps that came out between 2000-2010 and you will notice a signficant amount of salacious content and promotion of stereotypes.  It was difficult to get away from these influences and I think people mimicked this ‘environment’ in their own lives.  Living through that time period meant that you learned to assess people’s intentions and really decide what you wanted out of the interaction.  Thinking back on those times, I think younger generations might think we were fairly crazy but learned to be unfazed by people and seek out honest responses that matched our standards.&lt;/p&gt;
 
-&lt;p&gt;So to live in this dual culture, where older Millennials experienced the wild west of a social and technology paradigm shift and younger people experiencing only the after effects of the shift, the two groups will need to learn how to negotiate their differences of communication and risk taking.  I know that I will need to change how I talk in personal settings because the person might not be as open with their true opinions and feelings and that I might be too abrupt.  It will be interesting to see how the generations differ as time progresses.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="interests" /><category term="Interests" /><category term="entertainment" /><summary type="html">So it was about two years ago when I started getting many arbitrary questions from people about my personal interests. Most of these questions did not really fit into the conversation and seemed to be thrown in on a whim. It made me very curious about what the person was thinking right before they asked.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/phones.jpg" /><media:content medium="image" url="/assets/img/blog/phones.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Random Blog..</title><link href="/articles/interests/2023-03-07-interests_blog/" rel="alternate" type="text/html" title="The Random Blog.." /><published>2023-03-07T00:00:00-06:00</published><updated>2023-03-08T15:56:40-06:00</updated><id>/articles/interests/interests_blog</id><content type="html" xml:base="/articles/interests/2023-03-07-interests_blog/">&lt;hr /&gt;
+&lt;p&gt;So to live in this dual culture, where older Millennials experienced the wild west of a social and technology paradigm shift and younger people experiencing only the after effects of the shift, the two groups will need to learn how to negotiate their differences of communication and risk taking.  I know that I will need to change how I talk in personal settings because the person might not be as open with their true opinions and feelings and that I might be too abrupt.  It will be interesting to see how the generations differ as time progresses.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="interests" /><category term="Interests" /><category term="entertainment" /><summary type="html">So it was about two years ago when I started getting many arbitrary questions from people about my personal interests. Most of these questions did not really fit into the conversation and seemed to be thrown in on a whim. It made me very curious about what the person was thinking right before they asked.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/phones.jpg" /><media:content medium="image" url="/assets/img/blog/phones.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Git Naming Conventions…</title><link href="/articles/tech/2023-03-07-git-names-conventions/" rel="alternate" type="text/html" title="Git Naming Conventions…" /><published>2023-03-07T00:00:00-06:00</published><updated>2023-03-09T11:24:44-06:00</updated><id>/articles/tech/git-names-conventions</id><content type="html" xml:base="/articles/tech/2023-03-07-git-names-conventions/">&lt;hr /&gt;
+
+&lt;p&gt;It was not until recently that I found a good article about naming conventions.  As I created more repositories and the complexity of my projects increased, I become much more cognizant of the importance of being organized.  There are many different things that can be done to keep a project orderly but here are some specifics related to Git.&lt;/p&gt;
+
+&lt;h3 id=&quot;branch-naming&quot;&gt;Branch Naming&lt;/h3&gt;
+
+&lt;p&gt;The article that I found was by &lt;a href=&quot;https://codingsight.com/git-branching-naming-convention-best-practices/&quot;&gt;codingsight.com&lt;/a&gt; and their naming rules just make sense.  Here are a few takeaways:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;For temporary branches, use a keyword at the beginning hat describes the type of work.
+    &lt;ul&gt;
+      &lt;li&gt;Bug Fix (bug)&lt;/li&gt;
+      &lt;li&gt;Hot Fix (hot)&lt;/li&gt;
+      &lt;li&gt;Feature Branch (feature)&lt;/li&gt;
+      &lt;li&gt;Experimental Branch (experiment)&lt;/li&gt;
+      &lt;li&gt;Work in Progress Branch (wip)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If using Jira or other PMS, use a unique ID within the branch name.&lt;/li&gt;
+  &lt;li&gt;Use hyphen or slashes as separators.  I should probably write more about the effect of using slashes but taht will be a different article.&lt;/li&gt;
+  &lt;li&gt;Use only lowercase&lt;/li&gt;
+  &lt;li&gt;Be consistent.  Decide early if words are separated by hyphens but don’t mix in underscores or periods unless there is a logical pattern.&lt;/li&gt;
+  &lt;li&gt;Potentially include the authors name in the name&lt;/li&gt;
+  &lt;li&gt;For branches that will take a long time to develop, use a short descriptive name.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here is an example format:
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;branch-type&amp;gt;_&amp;lt;author&amp;gt;_&amp;lt;branch-name&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;commit-messages&quot;&gt;Commit Messages&lt;/h3&gt;
+
+&lt;p&gt;I don’t really write detailed commit messages.  I think about it but I tend to keep all messages very short.  Here are a few heuristics from a &lt;a href=&quot;https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791&quot;&gt;medium.com article&lt;/a&gt; that I do like:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Keep the subject line under 50 characters long.&lt;/li&gt;
+  &lt;li&gt;Explanatory text should be written in the imperative verb form - Fix bug causing outage.&lt;/li&gt;
+  &lt;li&gt;The message should answer these questions:
+    &lt;ol&gt;
+      &lt;li&gt;Why is this change necessary?&lt;/li&gt;
+      &lt;li&gt;How does this commit address the issue?&lt;/li&gt;
+      &lt;li&gt;What effects does this change have?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To keep messages shorter then the PMS ID could be added.  This is common when using JIRA.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;For larger projects, write a multiline commit message by typing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit&lt;/code&gt;.  This will open a command line editor.  You can also set your default editor with this command &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --global core.editor nano&lt;/code&gt;.  I actually like to use the command line method:  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;Subject&quot; -m &quot;Description...&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Similar to the medium article, &lt;a href=&quot;https://www.gitkraken.com/learn/git/best-practices/git-commit-message&quot;&gt;gitkraken.com&lt;/a&gt; has a nice article that largely supports the above suggestions.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><summary type="html">It was not until recently that I found a good article about naming conventions. As I created more repositories and the complexity of my projects increased, I become much more cognizant of the importance of being organized. There are many different things that can be done to keep a project orderly but here are some specifics related to Git.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/moon_phases.jpg" /><media:content medium="image" url="/assets/img/blog/moon_phases.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Random Blog..</title><link href="/articles/interests/2023-03-07-interests_blog/" rel="alternate" type="text/html" title="The Random Blog.." /><published>2023-03-07T00:00:00-06:00</published><updated>2023-03-08T15:56:40-06:00</updated><id>/articles/interests/interests_blog</id><content type="html" xml:base="/articles/interests/2023-03-07-interests_blog/">&lt;hr /&gt;
 
 &lt;p&gt;As I developed this Jekyll website, I realized that I wanted to add short essays for several purposes, but for mainly two reasons:&lt;/p&gt;
 
@@ -36,141 +396,4 @@
 
 &lt;p&gt;This section entitled “The Random Blog” is aimed as a location where I can put those posts while keeping the other two blog’s purposes distinct.  In the near future I will also add tags so it is easier to find related posts with a simple click.&lt;/p&gt;
 
-&lt;p&gt;I hope you enjoy and please keep in mind that the writings in this section are not meant to be taken to heart but are intended as interesting conversation starters that will hopefully lead to a meaningful debate or reflection.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="interests" /><category term="Interests" /><category term="professionalism" /><summary type="html">As I developed this Jekyll website, I realized that I wanted to add short essays for several purposes, but for mainly two reasons:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/library.jpg" /><media:content medium="image" url="/assets/img/blog/library.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Git…</title><link href="/articles/tech/2023-02-22-git/" rel="alternate" type="text/html" title="Git…" /><published>2023-02-22T00:00:00-06:00</published><updated>2023-03-08T16:05:53-06:00</updated><id>/articles/tech/git</id><content type="html" xml:base="/articles/tech/2023-02-22-git/">&lt;hr /&gt;
-
-&lt;p&gt;I have to say that I have really enjoyed learning git.  Every project I do, I learn to appreciate it a bit more.  Part of my interest is for a completely oddball reason - I like using terminal since it fits well in my workflow.  I can have a prototype of an idea created that shows basic functionality of the initial goals. This is my proof of concept.  After I am at that stage then I can start having fun with it and start looking at these changes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;modifying the code to meet a style guide&lt;/li&gt;
-  &lt;li&gt;refactoring the code to improve it’s modular nature and organization&lt;/li&gt;
-  &lt;li&gt;evaluating code efficiency&lt;/li&gt;
-  &lt;li&gt;brainstorming how the code may affect future feature additions&lt;/li&gt;
-  &lt;li&gt;improving existing features&lt;/li&gt;
-  &lt;li&gt;creating new features&lt;/li&gt;
-  &lt;li&gt;identifying time consuming processes and automating&lt;/li&gt;
-  &lt;li&gt;adding graphics&lt;/li&gt;
-  &lt;li&gt;creating a user interface&lt;/li&gt;
-  &lt;li&gt;creating a private and public portal&lt;/li&gt;
-  &lt;li&gt;adding utilities and operation analysis tools&lt;/li&gt;
-  &lt;li&gt;planning pipelines processes&lt;/li&gt;
-  &lt;li&gt;creating transition plans to move processes from one cloud service to another&lt;/li&gt;
-  &lt;li&gt;brainstorming modularity and code ownership among teams&lt;/li&gt;
-  &lt;li&gt;evaluating change processes and personnel risks (onboarding/offboarding)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most of these items could be explored by making a branch.  In many cases I might have an idea and just need a fast testing platform that I could keep if it works or throw away.  Here are some uses of git besides creating a branch:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;allow multiple people to develop code for one branch&lt;/li&gt;
-  &lt;li&gt;allow branches of branches&lt;/li&gt;
-  &lt;li&gt;allow tested and verifed code to merge into a primary branch&lt;/li&gt;
-  &lt;li&gt;update a branch’s code with an updated base branch&lt;/li&gt;
-  &lt;li&gt;revert changes to a previous commit&lt;/li&gt;
-  &lt;li&gt;checkout a concurrently developed code branch&lt;/li&gt;
-  &lt;li&gt;search for code changes from weeks, months, or years ago that may could to be repurposed or a cause of a current problem&lt;/li&gt;
-  &lt;li&gt;track project progress through purpose created branches&lt;/li&gt;
-  &lt;li&gt;store code in a cloud based system that has all past change logs included&lt;/li&gt;
-  &lt;li&gt;through cloud services, manage code through automated approval and setup processes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;– Add info about naming conventions
-– GitKracken
-– Sourcetree&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="tools" /><summary type="html">I have to say that I have really enjoyed learning git. Every project I do, I learn to appreciate it a bit more. Part of my interest is for a completely oddball reason - I like using terminal since it fits well in my workflow. I can have a prototype of an idea created that shows basic functionality of the initial goals. This is my proof of concept. After I am at that stage then I can start having fun with it and start looking at these changes:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/moon_phases.jpg" /><media:content medium="image" url="/assets/img/blog/moon_phases.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Stategic Thinking…</title><link href="/articles/tech/2023-02-20-strategic_thinking/" rel="alternate" type="text/html" title="Stategic Thinking…" /><published>2023-02-20T00:00:00-06:00</published><updated>2023-03-08T16:10:10-06:00</updated><id>/articles/tech/strategic_thinking</id><content type="html" xml:base="/articles/tech/2023-02-20-strategic_thinking/">&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Simple travel assessment like Gravity diagram&lt;/li&gt;
-  &lt;li&gt;Alarm development of single and elapsed time alarms&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="eda" /><category term="overview" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/train.jpg" /><media:content medium="image" url="/assets/img/blog/train.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Regression…</title><link href="/articles/tech/2023-02-17-regression/" rel="alternate" type="text/html" title="Regression…" /><published>2023-02-17T00:00:00-06:00</published><updated>2023-03-08T16:05:34-06:00</updated><id>/articles/tech/regression</id><content type="html" xml:base="/articles/tech/2023-02-17-regression/">&lt;hr /&gt;
-
-&lt;p&gt;Regression is not a topic that I originally spent much time thinking about but as I started to get more involved with analyzing large dataset, I found myself learning more about regression so I coud extract the most out of a dataset.  I have noticed one thing as I have worked with data scientiests from different backgrounds.  Those who come from a statistics or math background are very concerned with the coefficient estimation while people from an applied science background only concentrate on the overall model quality.  Part of this might be due to how the two groups use the model after fitting - the more theoretical science backgrounds are interested in calculating probabilities and odds from the model and the applied science backgrounds are interested in reproduceability and forecasting.&lt;/p&gt;
-
-&lt;p&gt;Here are some important skills when performing linear regression that I learned from the theoretical scientists:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Incorporating data types into models
-    &lt;ul&gt;
-      &lt;li&gt;Continuous&lt;/li&gt;
-      &lt;li&gt;Binary&lt;/li&gt;
-      &lt;li&gt;Categorical&lt;/li&gt;
-      &lt;li&gt;Non-linear&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Evaluate Model with Residuals
-    * Normality Assumption Check - Plot Y estimated versus Y known
-    * Independence of Residuals - Plot Residuals versus Y estimated
-    * Verify Constant Variance (Homeoskedascity) - Plot Residuals versus Y estimated
-    * Check for Multicolinearity - Calculate VIF&lt;/li&gt;
-  &lt;li&gt;Feature Diagnotics
-    * Forward Selection
-    * Backward Selection
-    * Stepwise Regression
-    * Use Subject Matter Expert (SME) Input to find important factors&lt;/li&gt;
-  &lt;li&gt;Once each feature shows significance, perform additional analysis
-    * Calculate Probabilities
-    * Calculate Odds&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;From my engineering experiences we would also perform a sensitivity assessment.  This could be done by inputing a lot of inputs or by creating extreme case studies.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="ml" /><category term="tutorial" /><summary type="html">Regression is not a topic that I originally spent much time thinking about but as I started to get more involved with analyzing large dataset, I found myself learning more about regression so I coud extract the most out of a dataset. I have noticed one thing as I have worked with data scientiests from different backgrounds. Those who come from a statistics or math background are very concerned with the coefficient estimation while people from an applied science background only concentrate on the overall model quality. Part of this might be due to how the two groups use the model after fitting - the more theoretical science backgrounds are interested in calculating probabilities and odds from the model and the applied science backgrounds are interested in reproduceability and forecasting.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/pencils.jpg" /><media:content medium="image" url="/assets/img/blog/pencils.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SQL…</title><link href="/articles/tech/2023-02-16-sql/" rel="alternate" type="text/html" title="SQL…" /><published>2023-02-16T00:00:00-06:00</published><updated>2023-03-08T16:05:02-06:00</updated><id>/articles/tech/sql</id><content type="html" xml:base="/articles/tech/2023-02-16-sql/">&lt;hr /&gt;
-
-&lt;p&gt;SQL is a definite requirement for anyone who is interested in doing data work.  Here are some basics from work I have done:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Basic Selects With Where&lt;/li&gt;
-  &lt;li&gt;Subqueries in the Select and Where Clauses&lt;/li&gt;
-  &lt;li&gt;Basic Selects With Order By and Limit&lt;/li&gt;
-  &lt;li&gt;Selects with Aggregations With Group By&lt;/li&gt;
-  &lt;li&gt;Selects with Aggregations with Group By and Having&lt;/li&gt;
-  &lt;li&gt;Window Functions&lt;/li&gt;
-  &lt;li&gt;Joins&lt;/li&gt;
-  &lt;li&gt;Unions&lt;/li&gt;
-  &lt;li&gt;Common Table Expression (CTE)&lt;/li&gt;
-  &lt;li&gt;Recursive CTE&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="etl" /><summary type="html">SQL is a definite requirement for anyone who is interested in doing data work. Here are some basics from work I have done:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/search.jpg" /><media:content medium="image" url="/assets/img/blog/search.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Preprocessing…</title><link href="/articles/tech/2023-02-10-preprocessing/" rel="alternate" type="text/html" title="Preprocessing…" /><published>2023-02-10T00:00:00-06:00</published><updated>2023-03-08T16:04:43-06:00</updated><id>/articles/tech/preprocessing</id><content type="html" xml:base="/articles/tech/2023-02-10-preprocessing/">&lt;hr /&gt;
-
-&lt;p&gt;Preprocessing might be one of the less appreciated steps in data science.  If you believe in the Pareto Principle then about 80% of one’s time is spent doing Feature Selection and Preprocessing is a significant part of those steps.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Imputing Missing Data&lt;/li&gt;
-  &lt;li&gt;Encoding Categorical Variables&lt;/li&gt;
-  &lt;li&gt;Transforming Numerical Variables&lt;/li&gt;
-  &lt;li&gt;Performing Variable Discretization&lt;/li&gt;
-  &lt;li&gt;Eleminating Outliers&lt;/li&gt;
-  &lt;li&gt;Extracting Date and Time Features&lt;/li&gt;
-  &lt;li&gt;Creating Features from Time Series&lt;/li&gt;
-  &lt;li&gt;Performing Feature Scaling&lt;/li&gt;
-  &lt;li&gt;Creating New Features&lt;/li&gt;
-  &lt;li&gt;Extracting Features from Relational Data&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="tech" /><category term="Tech" /><category term="preprocessing" /><category term="overview" /><summary type="html">Preprocessing might be one of the less appreciated steps in data science. If you believe in the Pareto Principle then about 80% of one’s time is spent doing Feature Selection and Preprocessing is a significant part of those steps.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/steps.jpg" /><media:content medium="image" url="/assets/img/blog/steps.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Personal Growth…</title><link href="/articles/person/personal/2023-01-27-personal-growth/" rel="alternate" type="text/html" title="Personal Growth…" /><published>2023-01-27T00:00:00-06:00</published><updated>2023-03-08T16:02:45-06:00</updated><id>/articles/person/personal/personal-growth</id><content type="html" xml:base="/articles/person/personal/2023-01-27-personal-growth/">&lt;hr /&gt;
-
-&lt;p&gt;My last article was a bit long so hopefully this one is more concise.  Although this article is an important topic - it’s about personal growth.  Everything from this past year where I think I have expanded my current skills or identified a potential preference that brings joy to myself.  Below is a short list of some of my key findings:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Long term interest:  Detailed Analytics&lt;/code&gt;:   Recently, I had an opportunity to work on a project where the type of work varied drastically.  Sometimes I would be doing analytics, somtimes I would be doing collaborative work, and other times I might monitoring a system looking for failures that needed escalated.  What I realized is that I find great comfort doing detailed analytics work.  It became obvious that I do not get tired or bored doing this work.  I was also very proud of my accomplishments and found it easy to push to get the most value out of each project.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Distancing myself from busy-body work&lt;/code&gt;:  I have always been able to adapt to almost any situation and have learned to tolerate aspects of the situation that I find frustrating, but in 2022 I realized that I have always hated being bombarded with requests.  Now, this might sound like a normal expections of a job but I am referring to a role where a new request comes in every few minutes that needs attention - sort of the customer service type role but can also be found in technical roles.  I had a role where I would get an email, slack message, and app alert from each source every couple minutes and I needed to immediately respond and on top of that I needed to monitor several dashboards on a very frequent basis.  I could do it all but this would be constant for hours and realized that my introverted self just became exhausted with this work.  This type of work in limited bursts is fine but not 40% of my work hours for a year.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OOP and Simulations&lt;/code&gt;:  I really enjoyed some of my coding projects this past year.  My favorite and often most challenging study was expanding my experience with making object oriented programs which often centered around building simulations.  I motivation was a YouTube video about Decision Science - similar to data science but with more emphasis on evaluating what is the value of ideas to the organization.  After looking at the open source tools for simulation, I realized that there was an incredible amount of potential to explore dynamic problems that often machine learning can not capture very effectively.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SQL Projects&lt;/code&gt;:  I was finally able to write Advanced SQL off my todo list.  I knew fundamental concepts but never had to do a full ETL project.  In total I did about three projects that started with messy data and went through all the steps to get it into a cloud or local database.  Afterwards, I kept adding new data to it and checking to see if the database function well and was easy to access the information.  After a handful of projects, I think the only topic still on my SQL todo list is to do a project where I use recursive CTE.  I have learned about them but never really needed to incorporate them into a project.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;I'm decent with Tableau&lt;/code&gt;:  I always thought I was not very good with Tableau but it turns out that I have very similar capabilities as those who use Tableau on a regular basis.  It was a bit shocking because I have always discounted this skill.  I also taught a 1.5 hour class on the subject this year when an instructor was unable to make it to the class.  I did pretty good I think for only discussing everything from memory and only 30 minutes advance notice.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;I'm typically a good listener&lt;/code&gt;:  This is a trait that I realized that &lt;em&gt;not&lt;/em&gt; many people have within the data science field.  Too many times this past year, I witnessed people answering questions that were never asked or going on tangents.  I think this is why I find mentoring others be very natural.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Project Management&lt;/code&gt;: It seems as if project management is my de facto role.  When in a group I seem to be the one that plans out the steps and wants to do a work breakdown structure.  Breaking down projects in small components and managing their execution seems like the obvious first step.  What do other people do?  My experience is that confusion is the alternative but maybe there are ways - I guess it works for Jazz musicians.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="person" /><category term="Personal" /><category term="professionalism" /><summary type="html">My last article was a bit long so hopefully this one is more concise. Although this article is an important topic - it’s about personal growth. Everything from this past year where I think I have expanded my current skills or identified a potential preference that brings joy to myself. Below is a short list of some of my key findings:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/growth.jpg" /><media:content medium="image" url="/assets/img/blog/growth.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">2022 Interviews…</title><link href="/articles/person/personal/2022-11-25-interviews/" rel="alternate" type="text/html" title="2022 Interviews…" /><published>2022-11-25T00:00:00-06:00</published><updated>2023-03-08T16:02:18-06:00</updated><id>/articles/person/personal/interviews</id><content type="html" xml:base="/articles/person/personal/2022-11-25-interviews/">&lt;hr /&gt;
-
-&lt;p&gt;By September 2022, I had begun distributing my resume to potential employers.  It was somewhat of an odd experience - partially because I had not truly done an interview since 2018 and partially because everything is now performed online.  I had sent out resumes in February 2020, as I was finishing my data science certificate program at Northwestern, but everything was shutting down due to COVID by the next month and all hiring just stopped.  I think I had applied for 20 positions at that time.  This time I applied for only 8 positions but each one was something that I thought would be a very good fit and happily had 4 positive responses.&lt;/p&gt;
-
-&lt;p&gt;My initial interviews were very similar to my past interviews.  Most of them were with human resources personnel over the phone and was just a general discussion about my interests and background.  I find these discussions to be very beneficial since I have a chance to ask about the ambiguous aspects of the job posting; although, many times I am told that only the hiring manager can provide details.  In general, I was able to get a sense of what the job is like.&lt;/p&gt;
-
-&lt;p&gt;Of the four initial phone interviews, I went on to do two second round interviews and I rejected one offer for a second interview and I was not selected for another second round interview.  Luckily, my two favorite options were interested in me.  The interview that I turned down was due to concerns that the job would have a very limited use of modern tools and that the actual job did not match the job posting.  The second interview and third interviews were with the hiring manager and then with multiple coworkers.  After all the interviews, it took around 6 weeks to get a response since I was the first candidate interviewed for both positions.  Both companies made offers at about the same time.&lt;/p&gt;
-
-&lt;p&gt;What differed from my past experiences was that neither company offered for me to visit the office and talk to the team about what they do and how they do it.  This was discussed during the second and third interviews but in a very time constrained manner.  I asked additional questions about what to expect after I was told I would get an offer and I did get reasonable answers but much of it was deferred to later because I was told that I would receive two to six months of training before being completely onboarded.  Everyone seemed very likeable and positive about their roles and the hybrid work schedule was said to be working well.  I have had concerns about onboarding with most people working from home - it seems like this would cause problems in many cases.&lt;/p&gt;
-
-&lt;p&gt;The process of receiving an offer was very brief compared to past experiences and was completely negotiated by the recruiter and not the hiring manager.  Shortly after my followup questions, I received a verbal offer from the recruiter and was immediatly asked to discuss salary.  This was actually an unplanned phone call and the recruiter was a bit abrupt when outlining the salary and benefits.  I asked for a small bump in salary because I knew the basics of the other offer I would be getting but I had not received anything in writing yet.  The recruiter contacted me the next day with a final offer and gave me roughly five days to make a decision.  I thought this was a bit fast considering I had waited six weeks for their interview process to finish. After a couple days, I accepted the offer and received a confirmation from the recruiter but that was actually the last I ever heard from that person.  This was a bit odd because they entered a start date that I had not agreed upon and all documentation from that point forward was from an automated system.  In total, I think the entire process occurred during one work week - from followup questions to offer to acceptance.&lt;/p&gt;
-
-&lt;p&gt;So in summary, the process was much less personal than my past experiences.  Everything was done online and often details were omitted.  Upon follow messages, some clarity was provided but it required asking very detailed questions to get the necessary information.  The one change I would make now is to push for more clarity regarding their onboarding process.  In the end, I really liked the company as a whole but the onboarding process and the long-term details for my particular role were not explained well.  Within my first few weeks, I realized what seemed like very manageable tasks I had done routinely in the past were part of a time consuming, poorly designed workflow and the training was not very good either.&lt;/p&gt;
-
-&lt;p&gt;For the first and only time in my career, I was not able to speed through onboarding and didn’t really see how I would thrive in this environment - it seemed like I would spend all my time asking questions about what I would consider standard operating procedures and the responses often resulted in vague and misleading answers.  After multiple discussions with my coworkers and verifying that everything was going according to plan with my manager, I began to weigh the benefits of continuing at that role.  I realized that even after I learned the core information for the position, I would still be working within a frustrating workflow.  So after only six weeks on the job, I resigned.  I’m probably lucky that the initial training did not go well - by the fourth week, I was designing my own work breakdown structure (WBS) which helped me understand what I should expect after several months on the job and it was a bit disheartening.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Check out my next article which will be about what I learned about myself from this experience.&lt;/code&gt;&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="person" /><category term="Personal" /><category term="professionalism" /><summary type="html">By September 2022, I had begun distributing my resume to potential employers. It was somewhat of an odd experience - partially because I had not truly done an interview since 2018 and partially because everything is now performed online. I had sent out resumes in February 2020, as I was finishing my data science certificate program at Northwestern, but everything was shutting down due to COVID by the next month and all hiring just stopped. I think I had applied for 20 positions at that time. This time I applied for only 8 positions but each one was something that I thought would be a very good fit and happily had 4 positive responses.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/interview.jpg" /><media:content medium="image" url="/assets/img/blog/interview.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work Schedules…</title><link href="/articles/person/personal/2022-06-04-work-schedule/" rel="alternate" type="text/html" title="Work Schedules…" /><published>2022-06-04T00:00:00-05:00</published><updated>2023-03-08T16:01:44-06:00</updated><id>/articles/person/personal/work-schedule</id><content type="html" xml:base="/articles/person/personal/2022-06-04-work-schedule/">&lt;hr /&gt;
-
-&lt;p&gt;I must say that I have benefitted from the work from home experiences of the past few years.  By saving two hours each day on commuting and being able to utilize my time at home very effectively, I have been able to add significant time developing data skills.  With my schedule from before the pandemic, I don’t know if I could have had enough time or energy to be able to include meaningful learning.  So I give strong praise for work at home for its ability to support independent research.&lt;/p&gt;
-
-&lt;p&gt;On the flip side prior to the pandemic, I would often go to meetup.com meetings hosted in downtown Chicago about python, machine learning, and database applications.  These seminars were grade and they continue online but the part that could not be duplicated is the wisdom sharing and battle stories tha were shared among the guests at the in-person meetings.  I learned so much from hearing about the experiences people had and it gave me a lot of perspective about what this career included.&lt;/p&gt;
-
-&lt;p&gt;I really synpathsize with employers now.  On one hand people can become better employees through easier access to technical training.  On the other hand, the interpersonal discussions provided a context that helped me plan my future career.  I could see everyone going back to full time in the office; although not ideal, but I definitely don’t think work from home all the time is good for professional development and collaborative work.  I tend to think that working several days from the office and but also having several days where one can work from home to be very nice compromise.&lt;br /&gt;
-home versus office&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="person" /><category term="Personal" /><category term="professionalism" /><summary type="html">I must say that I have benefitted from the work from home experiences of the past few years. By saving two hours each day on commuting and being able to utilize my time at home very effectively, I have been able to add significant time developing data skills. With my schedule from before the pandemic, I don’t know if I could have had enough time or energy to be able to include meaningful learning. So I give strong praise for work at home for its ability to support independent research.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/remote_work.jpg" /><media:content medium="image" url="/assets/img/blog/remote_work.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I hope you enjoy and please keep in mind that the writings in this section are not meant to be taken to heart but are intended as interesting conversation starters that will hopefully lead to a meaningful debate or reflection.&lt;/p&gt;</content><author><name>Erin Wills</name><email>ejw.data@gmail.com</email></author><category term="articles" /><category term="interests" /><category term="Interests" /><category term="professionalism" /><summary type="html">As I developed this Jekyll website, I realized that I wanted to add short essays for several purposes, but for mainly two reasons:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/blog/library.jpg" /><media:content medium="image" url="/assets/img/blog/library.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
